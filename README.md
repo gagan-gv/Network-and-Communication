@@ -12,3 +12,6 @@
   - Stop and Wait ARQ
   - Go Back N ARQ
   - Selective Repeat ARQ
+
+- ISP Problem
+- Dijikstra's Algorithm
